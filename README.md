@@ -1,6 +1,6 @@
 
 
-# Data Analysis Project: Product Sales Dataset
+# Data Analysis Project
 
 ## Project Overview
 This project involves analyzing a dataset containing product sales data, including units shipped, units sold, and price per kg. The goal of this project is to 
